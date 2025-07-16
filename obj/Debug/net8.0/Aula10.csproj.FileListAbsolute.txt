@@ -1,0 +1,14 @@
+C:\Visual Studio\C#Projects\Aula10\bin\Debug\net8.0\Aula10.exe
+C:\Visual Studio\C#Projects\Aula10\bin\Debug\net8.0\Aula10.deps.json
+C:\Visual Studio\C#Projects\Aula10\bin\Debug\net8.0\Aula10.runtimeconfig.json
+C:\Visual Studio\C#Projects\Aula10\bin\Debug\net8.0\Aula10.dll
+C:\Visual Studio\C#Projects\Aula10\bin\Debug\net8.0\Aula10.pdb
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.AssemblyInfoInputs.cache
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.AssemblyInfo.cs
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.csproj.CoreCompileInputs.cache
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.dll
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\refint\Aula10.dll
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.pdb
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.genruntimeconfig.cache
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\ref\Aula10.dll
