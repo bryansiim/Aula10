@@ -12,3 +12,4 @@ C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\refint\Aula10.dll
 C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.pdb
 C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.genruntimeconfig.cache
 C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\ref\Aula10.dll
+C:\Visual Studio\C#Projects\Aula10\obj\Debug\net8.0\Aula10.sourcelink.json
